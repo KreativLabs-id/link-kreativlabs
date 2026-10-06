@@ -12,14 +12,14 @@
 const linksData = [
   {
     id: "whatsapp",
-    title: "Konsultasi WhatsApp (Resmi)",
+    title: "Konsultasi WhatsApp (Gratis)",
     url: "https://wa.me/6287816270140?text=Halo%20KreativLabs%2C%20saya%20ingin%20konsultasi%20project",
     icon: "bi-whatsapp",
     isPrimary: true
   },
   {
     id: "website",
-    title: "Website Resmi KreativLabs.id",
+    title: "Website KreativLabs.id",
     url: "https://www.kreativlabs.id/",
     icon: "bi-globe2",
     isPrimary: false
